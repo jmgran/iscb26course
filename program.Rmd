@@ -16,22 +16,23 @@ All times are in CEST.
 
 |Time                 |Topic                                                                                         |Tutor                   |
 |:----------------------|:-----------------------------------------------------------------------------------------------|:-----------------------------|
-|11:00 - 11:45         |Lecture: Causal estimands for time-to-event outcomes and identification using observational data | Jon Michael Gran                       |                       |
-|*11:45 - 12:00*        |*Short break* |                       |
-|12:00 - 12:45        |Lecture: Estimating the effects of point treatments | Ruth Keogh                         |
-|12:45 - 13:15        |R demo: Methods for point treatments | Jon Michael Gran                           |
+|08:30 - 09:30        |Lecture 1: Causal estimands for time-to-event outcomes and identification using observational data | Jon Michael Gran                       |                       |
+|09:30 - 10:30        |Lecture 2: Estimating the effects of point treatments | Ruth Keogh                         |
+|*10:30 - 11:00*      |*Break* | 
+|11:00 - 11:30        |R demo 1: Methods for point treatments | Jon Michael Gran                           |
+|11:30 - 12:30        |Lecture 3: Methods for time-dependent treatment strategies  | Jon Michael Gran                           |
 
 |                 |                                                                                         |                   |
 |:----------------------|:-----------------------------------------------------------------------------------------------|:-----------------------------|
-|*13:15 - 14:00*        |*Lunch* |                           |
+|*12:30 - 13:30*        |*Lunch* |                           |
 
 **Part 2: Extensions to time-dependent treatment strategies**
 
 |                 |                                                                                         |                   |
 |:----------------------|:-----------------------------------------------------------------------------------------------|:-----------------------------|
-|14:00 - 14:30        |Lecture: Extensions to time-dependent treatment strategies, and the challenge of time-dependent confounding |  Jon Michael Gran                        |                       |
-|14:30 - 15:00        |Lecture: Further methods for time-dependent treatment strategies  | Ruth Keogh                         |
-|*15:00 - 15:15*        |*Short break*  |                        |
-|15:15 - 15:45        |R. demo: Methods for longitudinal treatment strategies  | Ruth Keogh                         |
-|15:45 - 16:00        |Round up and questions  |                         |
+|13:30 - 14:00        |R demo 2: Methods for time-dependent treatment strategies | Jon Michael Gran                           |
+|14:00 - 15:00        |Lecture 4: Doubly robust methods | Ruth Keogh                         |
+|*15:00 - 15:30*        |*Break*  |                        |
+|15:30 - 16:00        |R. demo: Doubly robust methods  | Ruth Keogh                         |
+|16:00 - by 17:30        |Lecture 5: Extensions and summary |                         |
 </br>
