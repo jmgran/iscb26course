@@ -1,6 +1,6 @@
 ---
 title: "Causal inference for time-to-event outcomes -- with practical applications in R"
-subtitle: "One-day pre-conference course at the Conference of the International Society for Clinical Biostatistics in Freiburg, September 27, 2026"
+subtitle: "One-day pre-conference course at the Conference of the International Society for Clinical Biostatistics (ISCB) in Freiburg, September 27, 2026"
 ---
 
 <style type="text/css">
@@ -33,6 +33,6 @@ More details about the course, including location, can be found [at the ISCB web
 
 ### Contact and further information
 
-For questions about the course please contact the course tutors by email on  ruth.keogh "at" lshtm.ac.uk or j.m.gran "at" medisin.uio.no. For practical questions, such as registration etc, contact the conference organisers through the web pages of the [Conference of the International Society for Clinical Biostatistics (ISCB)](https://iscbgmds2026.info){target="_blank"}.
+For questions about the course please contact the course tutors by email on  ruth.keogh "at" lshtm.ac.uk or j.m.gran "at" medisin.uio.no. For practical questions, such as registration etc, contact the conference organisers through the web pages of the [ISCB](https://iscbgmds2026.info){target="_blank"}.
 
 </br>
