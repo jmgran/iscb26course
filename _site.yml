@@ -1,0 +1,32 @@
+name: "nbbccourse"
+title: "ISCB course 2026"
+type: website
+output_dir: "docs"
+output:
+  html_document:
+    self_contained: no
+    theme: flatly
+navbar:
+  title: 'ISCB Course 2026'
+  search: true
+  right:
+  - text: "Home"
+    href: index.html
+  #- text: "Resources"
+    #menu:
+  - text: "Program"
+    href: program.html
+  - text: "Preparations"
+    href: preparations.html
+    #- text: "Part 1"
+    #  href: part1.html
+    #- text: "Part 2"
+    #  href: part2.html
+    #- text: "Part 3"
+    #  href: part3.html
+    #- text: "Part 4"
+    #s  href: part4.html
+  #- label: "GitHub"
+  #  icon: fa-github fa-lg
+  #  href: http://github.com/jmgran/iscb26course
+
