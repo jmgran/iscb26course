@@ -20,13 +20,13 @@ All times are in CEST.
 |09:15 - 10:00        |Lecture 2: Estimating the effects of point treatments | Ruth Keogh                         |
 |10:00 - 10:30        |R practical 1: Methods for point treatments | Jon Michael Gran                           |
 |*10:30 - 11:00*      |*Break* | 
-|11:00 - 11:45        |R practical 1 (cont.) | Jon Michael Gran                           |
+|11:00 - 11:30        |R practical 1 (cont.) | Jon Michael Gran                           |
 
 **Part 2: Extensions to time-dependent treatment strategies**
 
 |                 |                                                                                         |                   |
 |:----------------------|:-----------------------------------------------------------------------------------------------|:-----------------------------|
-|11:45 - 12:30        |Lecture 3: Methods for time-dependent treatment strategies  | Jon Michael Gran                           |
+|11:30 - 12:30        |Lecture 3: Methods for time-dependent treatment strategies  | Jon Michael Gran                           |
 |*12:30 - 13:30*        |*Lunch* |                           |
 |13:30 - 14:15        |R practical 2: Methods for time-dependent treatment strategies | Ruth Keogh                           |
 |14:15 - 15:00        |Lecture 4: Doubly robust methods | Ruth Keogh                         |
